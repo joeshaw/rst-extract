@@ -1,4 +1,8 @@
-# rst-extract #
+# rst-extract [deprecated] #
+
+**This tool is deprecated and no longer receives updates.  It has been
+replaced by my [doc-extract](https://github.com/joeshaw/doc-extract)
+tool.**
 
 rst-extract is a tool for extracting specially tagged comments in Go
 source code containing
